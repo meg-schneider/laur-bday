@@ -1,0 +1,73 @@
+body {
+
+  font-family: 'Six Caps', sans-serif;
+  font-family: 'Slackey', cursive;
+  font-family: 'Smythe', cursive;
+
+  background-color: #ffe9d6;
+
+  margin: 0 auto;
+  color: #654062;
+
+}
+td {
+  padding: 10px;
+}
+
+h1 {
+  font-family: 'Slackey', cursive;
+  font-size: 1.4rem;
+  color: #ffe9d6;
+}
+
+
+p {
+  color: #fa9579;
+}
+
+a {
+  color: #65d6ce;
+  text-decoration: none;
+}
+a:hover {
+  color: #fa9579;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+.container {
+  width: 100%;
+  margin: auto;
+}
+
+.opener {
+  background: #654062;
+  text-align: center;
+  padding: 40px;
+  color: #ffe9d6;
+
+}
+
+.details {
+  width: 60%;
+  margin: 50px auto;
+  background: #fa9579;
+}
+
+.table {
+  text-align: left;
+  font-size: 1.6rem;
+  margin: auto;
+  padding: 50px 20px;
+}
+
+.item {
+  font-family: 'Slackey', cursive;
+  color: #ffe9d6;
+}
+
+.footer {
+  text-align: center;
+  color: #654062;
+}
